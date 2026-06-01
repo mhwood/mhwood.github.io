@@ -7,56 +7,20 @@ author_profile: true
 
 My research combines numerical models, field observations, satellite data, and machine learning to understand how polar oceans are changing and how those changes affect glaciers, ecosystems, and coastal environments.
 
-## Research Approaches
-
-<div class="research-card-grid">
-
-  <a class="research-card" href="/research/ocean-modeling/">
-    <div class="research-card-icon">🌊</div>
-    <h3>Ocean Modeling</h3>
-    <p>
-      Numerical models act as virtual laboratories for exploring ocean circulation,
-      glacier-ocean interactions, and coupled physical-biological processes.
-    </p>
-    <!-- <span class="research-card-link">Explore modeling →</span> -->
-  </a>
-
-  <a class="research-card" href="/research/ocean-monitoring/">
-    <div class="research-card-icon">📡</div>
-    <h3>Ocean Monitoring</h3>
-    <p>
-      Field observations from CTDs, autonomous floats, moorings, and other sensors
-      reveal how the ocean is moving, mixing, and changing.
-    </p>
-    <!-- <span class="research-card-link">Explore observations →</span> -->
-  </a>
-
-  <a class="research-card" href="/research/machine-learning/">
-    <div class="research-card-icon">🧠</div>
-    <h3>Machine Learning</h3>
-    <p>
-      Machine learning helps extract patterns from complex ocean, ice, and satellite
-      datasets and build new tools for environmental prediction.
-    </p>
-    <!-- <span class="research-card-link">Explore ML methods →</span> -->
-  </a>
-
-</div>
-
 ## Greenland Projects
 
 <div class="research-card-grid">
 
-  <a class="research-card feature-card" href="/research/submarine-ice-melt/">
+  <a class="research-card feature-card" href="/research/regional-greenland-models/">
     <div class="research-card-icon">🇬🇱</div>
     <h3>Regional Greenland Models</h3>
     <p>
       Regional models provide efficient ways to explore glacier-ocean processes at fine scale.
     </p>
-    <!-- <span class="research-card-link">View melt work →</span> -->
+    <span class="research-card-link">View regional models →</span>
   </a>
 
-  <a class="research-card feature-card" href="/research/melt-biogeochemistry/">
+  <a class="research-card feature-card">
     <div class="research-card-icon">🌱</div>
     <h3>Meltwater & Biogeochemical Cycles</h3>
     <p>
@@ -66,7 +30,7 @@ My research combines numerical models, field observations, satellite data, and m
     <!-- <span class="research-card-link">View biogeochemistry work →</span> -->
   </a>
 
-  <a class="research-card feature-card" href="/research/glacier-evolution/">
+  <a class="research-card feature-card">
     <div class="research-card-icon">🏔️</div>
     <h3>Oceans Melting Greenland</h3>
     <p>
@@ -81,7 +45,7 @@ My research combines numerical models, field observations, satellite data, and m
 
 <div class="research-card-grid">
 
-  <a class="research-card feature-card" href="/research/submarine-ice-melt/">
+  <a class="research-card feature-card">
     <div class="research-card-icon">🌎</div>
     <h3>Pan-Arctic Modeling</h3>
     <p>
@@ -90,13 +54,38 @@ My research combines numerical models, field observations, satellite data, and m
     <!-- <span class="research-card-link">View melt work →</span> -->
   </a>
 
-  <a class="research-card feature-card" href="/research/melt-biogeochemistry/">
+  <a class="research-card feature-card">
     <div class="research-card-icon">❄️</div>
     <h3>Chukchi Sea Modeling</h3>
     <p>
       To explore anomalous freshwater in the Chukchi Sea during late summer 2024, I created a model configuration to test different processes.
     </p>
     <!-- <span class="research-card-link">View biogeochemistry work →</span> -->
+  </a>
+
+</div>
+
+
+## Code for Regional Models
+
+<div class="research-card-grid">
+
+  <a class="research-card feature-card" href="https://github.com/mhwood/diagnostics_vec">
+    <div class="research-card-icon">🌎</div>
+    <h3>diagnostics_vec</h3>
+    <p>
+      diagnostics_vec is a package for MITgcm to output model diagnostics on user-defined regions of the model grid. Its designed with downscaled modeling in mind but useful for a wide range of applications.
+    </p>
+    <span class="research-card-link">View the repository →</span>
+  </a>
+
+  <a class="research-card feature-card" href="https://eccoseas.readthedocs.io/en/latest/">
+    <div class="research-card-icon">❄️</div>
+    <h3>eccoseas</h3>
+    <p>
+      The eccoseas package provides a set of routines to interpolate ECCO model fields onto finer-resolution grids for downscaled modeling.
+    </p>
+    <span class="research-card-link">Check out the documentation →</span>
   </a>
 
 </div>

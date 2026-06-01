@@ -103,11 +103,11 @@ Megan Sharkey is a current graduate student in the Computational Oceanography la
 </div>
 </div>
 
-<!-- ### Undergraduate Students
+### Undergraduate Students
 
 <div class="people-card">
 
-<img src="/images/profile.png" alt="Bob Lee">
+<img src="/images/people/sherine.jpeg" alt="Sherine Aldrin">
 
 <div class="people-card-content">
 
@@ -115,10 +115,10 @@ Megan Sharkey is a current graduate student in the Computational Oceanography la
 Sherine Aldrin
 </div>
 
-Sherine is ...
+Sherine is a fourth-year Data Science major at San José State University. She is passionate about how data can help us better understand our oceans and is spending the summer conducting data analysis and numerical modeling research on the Greenland Ice Sheet. In her free time, she enjoys baking, spending time with her dog, staying active, reading, and being with friends.
 
 </div>
-</div> -->
+</div>
 
 ### Staff
 

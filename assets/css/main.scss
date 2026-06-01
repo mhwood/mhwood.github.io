@@ -267,7 +267,9 @@
 
 
 
-
+/*
+ This is the publication section
+*/
 
 
 
@@ -418,5 +420,191 @@
   .pub-stats,
   .featured-pub-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+
+
+/*
+ This is the research modeling example section
+*/
+
+
+
+.feature-hero {
+  margin: 1rem 0 3rem;
+  padding: 2rem;
+  border-radius: 22px;
+  background:
+    linear-gradient(145deg, rgba(78, 161, 255, 0.18), rgba(5, 7, 13, 0.4)),
+    #0b1220;
+  border: 1px solid #1f3350;
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.35);
+}
+
+.feature-kicker {
+  margin: 0 0 0.75rem;
+  color: #7cc4ff;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.feature-hero h1 {
+  margin-top: 0;
+  color: #e6edf7;
+  line-height: 1.1;
+}
+
+.feature-hero p {
+  max-width: 780px;
+  color: #d6e2f2;
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+.scrolly-wrapper {
+  display: grid;
+  grid-template-columns: minmax(280px, 0.9fr) minmax(360px, 1.3fr);
+  gap: 2rem;
+  align-items: start;
+  margin: 2rem 0 4rem;
+}
+
+.scrolly-text {
+  display: flex;
+  flex-direction: column;
+  gap: 45vh;
+  padding-bottom: 40vh;
+}
+
+.scrolly-step {
+  min-height: 55vh;
+  display: flex;
+  align-items: center;
+  opacity: 0.45;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.scrolly-step.is-active {
+  opacity: 1;
+  transform: translateX(6px);
+}
+
+.step-card {
+  width: 100%;
+  padding: 1.5rem;
+  border-radius: 18px;
+  background: #0b1220;
+  border: 1px solid #1f3350;
+  color: #e6edf7;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.step-number {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  color: #7cc4ff;
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+}
+
+.step-card h2 {
+  margin: 0 0 0.75rem;
+  color: #4ea1ff;
+}
+
+.step-card p {
+  margin: 0;
+  color: #d6e2f2;
+  line-height: 1.5;
+}
+
+.scrolly-visual {
+  position: sticky;
+  top: 6rem;
+}
+
+.sticky-figure {
+  border-radius: 22px;
+  overflow: hidden;
+  background: #05070d;
+  border: 1px solid #1f3350;
+  box-shadow: 0 16px 45px rgba(0, 0, 0, 0.45);
+}
+
+.sticky-figure img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  opacity: 1;
+  transition: opacity 0.22s ease;
+}
+
+.sticky-figure img.is-fading {
+  opacity: 0;
+}
+
+.figure-caption {
+  padding: 0.9rem 1rem;
+  color: #b7c7dd;
+  background: #07111f;
+  border-top: 1px solid #1f3350;
+  font-size: 0.9rem;
+}
+
+.feature-footer-card {
+  margin: 3rem 0;
+  padding: 1.75rem;
+  border-radius: 18px;
+  background:
+    linear-gradient(145deg, rgba(78, 161, 255, 0.14), rgba(5, 7, 13, 0.25)),
+    #0b1220;
+  border: 1px solid #1f3350;
+  color: #e6edf7;
+}
+
+.feature-footer-card h2 {
+  margin-top: 0;
+  color: #4ea1ff;
+}
+
+.feature-footer-card p {
+  color: #d6e2f2;
+}
+
+.feature-footer-card a,
+.feature-footer-card a:visited,
+.feature-footer-card a:hover {
+  color: #7cc4ff;
+  font-weight: 700;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+@media screen and (max-width: 900px) {
+  .scrolly-wrapper {
+    grid-template-columns: 1fr;
+  }
+
+  .scrolly-visual {
+    position: relative;
+    top: auto;
+    order: -1;
+  }
+
+  .scrolly-text {
+    gap: 2rem;
+    padding-bottom: 0;
+  }
+
+  .scrolly-step {
+    min-height: auto;
+    opacity: 1;
+    transform: none;
   }
 }
