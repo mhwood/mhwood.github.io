@@ -4,41 +4,16 @@
     <name>Model Project Sites</name>
 
     <Placemark>
-      <name>Kangerlussuaq Glacier</name>
+      <name>Float 2904019</name>
       <description>
         <![CDATA[
-          <p>Fjord-scale model project focused on circulation, mélange melt, and subglacial discharge.</p>
-          <p><a href="https://profmikewood.github.io/research/ocean-modeling-feature/" target="_blank">Open project page</a></p>
+          <p>This float was deployed in Qeqertarsuup Tunua to monitor oceanographic conditions near Sermeq Kujalleq.</p>
+          <p><a href="https://data-argo.ifremer.fr/dac/aoml/2904019/" target="_blank">Argo DAC</a></p>
+          <p><a href="https://fleetmonitoring.euro-argo.eu/float/2904019" target="_blank">EuroArgo</a></p>
         ]]>
       </description>
       <Point>
-        <coordinates>-33.0,68.6,0</coordinates>
-      </Point>
-    </Placemark>
-
-    <Placemark>
-      <name>Northwest Greenland Fjords</name>
-      <description>
-        <![CDATA[
-          <p>Modeling ocean-driven melt and fjord exchange in Northwest Greenland.</p>
-          <p><a href="https://profmikewood.github.io/research/northwest-greenland-modeling/" target="_blank">Open project page</a></p>
-        ]]>
-      </description>
-      <Point>
-        <coordinates>-50.0,74.0,0</coordinates>
-      </Point>
-    </Placemark>
-
-    <Placemark>
-      <name>Southeast Greenland</name>
-      <description>
-        <![CDATA[
-          <p>Regional modeling and observations of glacier-ocean interactions in Southeast Greenland.</p>
-          <p><a href="https://profmikewood.github.io/research/southeast-greenland/" target="_blank">Open project page</a></p>
-        ]]>
-      </description>
-      <Point>
-        <coordinates>-38.0,66.0,0</coordinates>
+        <coordinates>-53.113,69.002,0</coordinates>
       </Point>
     </Placemark>
 
