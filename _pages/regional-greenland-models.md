@@ -9,7 +9,7 @@ author_profile: true
   <p class="feature-kicker">Research Feature</p>
   <h1>Glacier-Ocean Interactions in Four Greenland Regions</h1>
   <p>
-    Explore the following regional models that encompass the entirety of the Greenland coastline.
+    Explore the following regional models that encompass the entirety of the Greenland coastline. These regional models were constructed on portions of the "Lat-Lon-Cap" grids.
   </p>
 </div>
 
@@ -18,7 +18,7 @@ author_profile: true
   <div class="scrolly-text">
 
     <section class="scrolly-step is-active"
-             data-image="/images/research/model-domain.jpg"
+             data-image="/images/research/regional-models/ce_model_example_field.png"
              data-caption="Potential Temperature in the CE Greenland Configuration">
       <div class="step-card">
         <span class="step-number">CE</span>
@@ -26,6 +26,9 @@ author_profile: true
         <p>
           This model encompasses the East Greenland current and includes glaciers from Kangerlussuaq through 79N. The grid is formed on a portion of ECCO's LLC1080 grid.
         </p>
+        
+        <h3><a href="https://doi.org/10.1029/2023GL107983">Article →</a></h3>
+        <h3><a href="https://github.com/mhwood/downscale_greenland/tree/main/L1/L1_CE_Greenland">Model Code →</a></h3>
       </div>
     </section>
 
@@ -42,7 +45,7 @@ author_profile: true
     </section>
 
     <section class="scrolly-step"
-             data-image="/images/research/circulation.jpg"
+             data-image="/images/research/regional-models/se_model_example_field.png"
              data-caption="Potential Temperature in the SE Greenland Configuration">
       <div class="step-card">
         <span class="step-number">SE</span>
@@ -54,7 +57,7 @@ author_profile: true
     </section>
 
     <section class="scrolly-step"
-             data-image="/images/research/circulation.jpg"
+             data-image="/images/research/regional-models/n_model_example_field.png"
              data-caption="Potential Temperature in the N Greenland Configuration">
       <div class="step-card">
         <span class="step-number">N</span>
