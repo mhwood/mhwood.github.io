@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Model Project Sites</name>
+
+    <Placemark>
+      <name>Kangerlussuaq Glacier</name>
+      <description>
+        <![CDATA[
+          <p>Fjord-scale model project focused on circulation, mélange melt, and subglacial discharge.</p>
+          <p><a href="https://profmikewood.github.io/research/ocean-modeling-feature/" target="_blank">Open project page</a></p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-33.0,68.6,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Northwest Greenland Fjords</name>
+      <description>
+        <![CDATA[
+          <p>Modeling ocean-driven melt and fjord exchange in Northwest Greenland.</p>
+          <p><a href="https://profmikewood.github.io/research/northwest-greenland-modeling/" target="_blank">Open project page</a></p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-50.0,74.0,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Southeast Greenland</name>
+      <description>
+        <![CDATA[
+          <p>Regional modeling and observations of glacier-ocean interactions in Southeast Greenland.</p>
+          <p><a href="https://profmikewood.github.io/research/southeast-greenland/" target="_blank">Open project page</a></p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-38.0,66.0,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
