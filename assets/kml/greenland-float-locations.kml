@@ -13,7 +13,7 @@
         ]]>
       </description>
       <Point>
-        <coordinates>-53.113,69.002,0</coordinates>
+        <coordinates>-52.85380172729492,68.99510192871094,0</coordinates>
       </Point>
     </Placemark>
 
@@ -27,7 +27,7 @@
         ]]>
       </description>
       <Point>
-        <coordinates>-61.5429,75.3958,0</coordinates>
+        <coordinates>-61.69139099121094,75.4834213256836,0</coordinates>
       </Point>
     </Placemark>
 
@@ -35,13 +35,13 @@
       <name>Float 2904018</name>
       <description>
         <![CDATA[
-          <p>This float was deployed in the Upernavik trough to monitor oceanographic conditions near glaciers in west Greenland.</p>
+          <p>This float was deployed in 2020 in the Upernavik trough to monitor oceanographic conditions near glaciers in west Greenland.</p>
           <p><a href="https://data-argo.ifremer.fr/dac/aoml/2904018/" target="_blank">Argo DAC</a></p>
           <p><a href="https://fleetmonitoring.euro-argo.eu/float/2904018" target="_blank">EuroArgo</a></p>
         ]]>
       </description>
       <Point>
-        <coordinates>-57.8907,73.2573,0</coordinates>
+        <coordinates>-58.170799255371094,73.33439636230469,0</coordinates>
       </Point>
     </Placemark>
 
@@ -49,13 +49,13 @@
       <name>Float 7902322</name>
       <description>
         <![CDATA[
-          <p>This float was deployed in the Ummannaaq to monitor oceanographic conditions near glaciers in west Greenland.</p>
+          <p>This float was deployed in 2021 in Ummannaaq to monitor oceanographic conditions near glaciers in west Greenland.</p>
           <p><a href="https://data-argo.ifremer.fr/dac/aoml/7902322/" target="_blank">Argo DAC</a></p>
           <p><a href="https://fleetmonitoring.euro-argo.eu/float/7902322" target="_blank">EuroArgo</a></p>
         ]]>
       </description>
       <Point>
-        <coordinates>-53.4218,70.914,0</coordinates>
+        <coordinates>-53.388999938964844,70.88980102539062,0</coordinates>
       </Point>
     </Placemark>
 
@@ -63,13 +63,13 @@
       <name>Float 7902321</name>
       <description>
         <![CDATA[
-          <p>This float was deployed in Melville Bay to monitor oceanographic conditions near glaciers in west Greenland.</p>
+          <p>This float was deployed in Melville Bay in 2021 to monitor oceanographic conditions near glaciers in west Greenland.</p>
           <p><a href="https://data-argo.ifremer.fr/dac/aoml/7902321/" target="_blank">Argo DAC</a></p>
           <p><a href="https://fleetmonitoring.euro-argo.eu/float/7902321" target="_blank">EuroArgo</a></p>
         ]]>
       </description>
       <Point>
-        <coordinates>-61.5348,73.3952,0</coordinates>
+        <coordinates>-61.63529968261719,75.4636001586914,0</coordinates>
       </Point>
     </Placemark>
 
@@ -77,13 +77,13 @@
       <name>Float 1902655</name>
       <description>
         <![CDATA[
-          <p>This float was deployed in Upernavik trough to monitor oceanographic conditions near glaciers in west Greenland.</p>
+          <p>This float was deployed in 2023 in the Upernavik trough to monitor oceanographic conditions near glaciers in west Greenland.</p>
           <p><a href="https://data-argo.ifremer.fr/dac/aoml/1902655/" target="_blank">Argo DAC</a></p>
           <p><a href="https://fleetmonitoring.euro-argo.eu/float/1902655" target="_blank">EuroArgo</a></p>
         ]]>
       </description>
       <Point>
-        <coordinates>-57.89,73.2567,0</coordinates>
+        <coordinates>-57.916500091552734,73.26920318603516,0</coordinates>
       </Point>
     </Placemark>
 
@@ -91,13 +91,13 @@
       <name>Float 6990591</name>
       <description>
         <![CDATA[
-          <p>This float was deployed in Upernavik trough to monitor oceanographic conditions near glaciers in west Greenland.</p>
+          <p>This float was deployed in Disko Bay in 2023 to monitor oceanographic conditions near Ilullisat.</p>
           <p><a href="https://data-argo.ifremer.fr/dac/aoml/6990591/" target="_blank">Argo DAC</a></p>
           <p><a href="https://fleetmonitoring.euro-argo.eu/float/6990591" target="_blank">EuroArgo</a></p>
         ]]>
       </description>
       <Point>
-        <coordinates>-50.01,69.093,0</coordinates>
+        <coordinates>-51.96540069580078,69.1155014038086,0</coordinates>
       </Point>
     </Placemark>
 
@@ -105,13 +105,13 @@
       <name>Float 2903449</name>
       <description>
         <![CDATA[
-          <p>This float was deployed in Upernavik trough to monitor oceanographic conditions near glaciers in west Greenland.</p>
+          <p>This float was deployed in Ummannaq in 2025 to monitor oceanographic conditions near glaciers in west Greenland.</p>
           <p><a href="https://data-argo.ifremer.fr/dac/aoml/2903449/" target="_blank">Argo DAC</a></p>
           <p><a href="https://fleetmonitoring.euro-argo.eu/float/2903449" target="_blank">EuroArgo</a></p>
         ]]>
       </description>
       <Point>
-        <coordinates>-53.77,70.87,0</coordinates>
+        <coordinates>-53.76771,70.87213,0</coordinates>
       </Point>
     </Placemark>
 
@@ -119,13 +119,13 @@
       <name>Float 6999993</name>
       <description>
         <![CDATA[
-          <p>This float was deployed in Melville Bay to monitor oceanographic conditions near glaciers in west Greenland.</p>
+          <p>This float was deployed in 2025 in Melville Bay to monitor oceanographic conditions near glaciers in west Greenland.</p>
           <p><a href="https://data-argo.ifremer.fr/dac/aoml/6999993/" target="_blank">Argo DAC</a></p>
           <p><a href="https://fleetmonitoring.euro-argo.eu/float/6999993" target="_blank">EuroArgo</a></p>
         ]]>
       </description>
       <Point>
-        <coordinates>-61.1115,75.2682,0</coordinates>
+        <coordinates>-61.11756,75.26851,0</coordinates>
       </Point>
     </Placemark>
 
